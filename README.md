@@ -7,4 +7,6 @@
 * Prometheus github.com/prometheus/client_golang
 * Apex Log github.com/apex/log
     * Elastic github.com/tj/go-elastic
-    
+* Dockerfile 
+* Simple Makefile
+* GitLab CI/CD tasks
